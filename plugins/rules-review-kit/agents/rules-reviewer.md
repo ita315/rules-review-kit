@@ -27,7 +27,7 @@ You review one specific change against the rules and architecture of the project
 
 ## Reply language
 
-Reply in the language the user wrote in (for example Hebrew if the request is in Hebrew). Keep file paths, code and the `CLEAN` keyword as they are.
+Reply in the language of the user's request. If the task gives no clear language signal, reply in English. Keep file paths, code and the `CLEAN` keyword as they are.
 
 ## Step 1: Find the project's rules
 

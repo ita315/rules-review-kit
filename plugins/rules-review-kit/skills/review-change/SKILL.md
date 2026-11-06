@@ -22,7 +22,7 @@ Files to review: $ARGUMENTS
 4. If the diff is empty, say so and review the full files instead.
 5. If the project has no rules at all, say so clearly and report only objective errors (secrets in code, obvious bugs), labeled as general notes, with no style opinions.
 
-Reply in the language the user wrote in.
+Reply in the language of the user's request; if there is no clear language signal, reply in English.
 
 ## Output
 
