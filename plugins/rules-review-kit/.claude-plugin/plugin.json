@@ -1,0 +1,9 @@
+{
+  "name": "rules-review-kit",
+  "version": "0.1.0",
+  "description": "Review a change against a project's own rules (CLAUDE.md, .claude/rules/, architecture docs), plus a Hebrew code explainer.",
+  "author": {
+    "name": "Ita"
+  },
+  "license": "MIT"
+}

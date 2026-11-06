@@ -1,0 +1,13 @@
+{
+  "name": "ita-plugins",
+  "owner": {
+    "name": "Ita"
+  },
+  "plugins": [
+    {
+      "name": "rules-review-kit",
+      "source": "./plugins/rules-review-kit",
+      "description": "Review a change against a project's own rules (CLAUDE.md, .claude/rules/, architecture docs), plus a Hebrew code explainer."
+    }
+  ]
+}
