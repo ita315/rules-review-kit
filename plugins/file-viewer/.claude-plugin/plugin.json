@@ -1,0 +1,8 @@
+{
+  "name": "file-viewer",
+  "version": "0.2.0",
+  "types": "./types/file-viewer.d.ts",
+  "description": "A pane beside the chat with the project tree and a read-only file preview",
+  "author": { "name": "Ita" },
+  "license": "MIT"
+}

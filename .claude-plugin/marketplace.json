@@ -8,6 +8,11 @@
       "name": "rules-review-kit",
       "source": "./plugins/rules-review-kit",
       "description": "Review a change against a project's own rules (CLAUDE.md, .claude/rules/, architecture docs), plus a Hebrew code explainer."
+    },
+    {
+      "name": "file-viewer",
+      "source": "./plugins/file-viewer",
+      "description": "A pane beside the chat with the project tree and a read-only file preview."
     }
   ]
 }
